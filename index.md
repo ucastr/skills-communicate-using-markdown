@@ -10,3 +10,7 @@
 ```javascript
 const mode = 'always on';
 ```
+
+- [ ] Task item 1
+- [x] Task item 2
+- [ ] Task item 3
